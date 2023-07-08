@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.youtubeclone.app-mergeDebugResources-25:/layout/activity_main.xml",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.youtubeclone.app-main-28:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.youtubeclone.app-mergeDebugResources-25:/layout/layout_scrollls.xml",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.youtubeclone.app-main-28:/layout/layout_scrollls.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.youtubeclone.app-mergeDebugResources-25:/layout/video_view.xml",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.youtubeclone.app-main-28:/layout/video_view.xml"
+    },
+    {
+        "merged": "com.example.youtubeclone.app-mergeDebugResources-25:/layout/activity_main.xml",
+        "source": "com.example.youtubeclone.app-main-28:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.youtubeclone.app-mergeDebugResources-25:/layout/layout_video_show.xml",
+        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.5.1/com.example.youtubeclone.app-main-28:/layout/layout_video_show.xml"
+    }
+]
